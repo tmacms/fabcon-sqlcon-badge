@@ -1,0 +1,8 @@
+Badge templates and sample artwork were supplied in the FabCon SQLCon Badge
+Creator Figma Make archive.
+
+The supplied archive attributes its sample photography to Unsplash:
+https://unsplash.com
+https://unsplash.com/license
+
+See THIRD_PARTY_NOTICES.txt for bundled software license notices.
